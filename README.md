@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://NV-GTO.github.io/github-games-jeremycherpeski-ai/
+You can play the game at: https://nv-gto.github.io/github-games-jeremycherpeski-ai
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
